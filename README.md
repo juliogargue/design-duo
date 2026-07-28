@@ -64,7 +64,7 @@ The orchestrator captures your topic (or asks for one), discovers your workspace
 ## Layout
 
 ```
-final/design-duo/
+design-duo/
 ├── SKILL.md                       # orchestrator
 ├── personas/
 │   ├── design-researcher.md       # canonical (no de- prefix — design-duo is original)
