@@ -27,7 +27,7 @@ Your question → design-researcher → research + gallery
 
 Both agents discover `DESIGN.md`, the component library, and product context from your workspace automatically. They adapt to whatever host project you point them at.
 
-<video src="./assets/preview.mp4" poster="./assets/preview-poster.jpg" controls width="100%"></video>
+[▶ Watch the 71-second demo](./assets/preview.mp4)
 
 ## When to use
 
